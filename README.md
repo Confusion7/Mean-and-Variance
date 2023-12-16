@@ -53,13 +53,13 @@ DEVELOPED BY: MOHAMMED SAAJID
 REGISTER NO:  212223240093
 
 
-![prog](https://github.com/Confusion7/Mean-and-Variance/assets/141727149/038a4f9f-cdbf-47b5-9bd0-56f6a005455d)
-
+![prog](https://github.com/Confusion7/Mean-and-Variance/assets/141727149/05d3720f-7d92-4c7d-aecd-51435e92b42f)
 
 
 # Output : 
 
-![output](https://github.com/Confusion7/Mean-and-Variance/assets/141727149/e0a33f22-79f9-45d4-918f-f328bec04828)
+
+![output](https://github.com/Confusion7/Mean-and-Variance/assets/141727149/e6172a07-bb56-415c-894d-94d459de81d6)
 
 
 # Results :
